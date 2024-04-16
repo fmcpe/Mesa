@@ -1,0 +1,7 @@
+.vscode*
+*.pyc
+*.pyo
+*.out
+build-android-*
+/build
+.venv/
